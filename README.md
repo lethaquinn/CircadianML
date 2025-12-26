@@ -1,14 +1,14 @@
-# 🧬 Circadian Transcriptomics Analysis Pipeline
+# Circadian Transcriptomics Analysis Pipeline
 
 **Advanced computational framework for discovering circadian rhythms and biomarkers in transcriptomic data**
 
-## 🌟 Features
-- 🔬 **JTK_CYCLE Algorithm**: Non-parametric circadian rhythm detection using Kendall’s tau correlation  
-- 🤖 **ML Biomarker Discovery**: Machine-learning–based biomarker identification  
-- 📊 **Advanced Visualisation**: Comprehensive plotting and dashboard capabilities  
-- 🧬 **Real Data Integration**: Automated GEO database downloading and processing
+## Features
+- **JTK_CYCLE Algorithm**: Non-parametric circadian rhythm detection using Kendall’s tau correlation  
+-  **ML Biomarker Discovery**: Machine-learning–based biomarker identification  
+- **Advanced Visualisation**: Comprehensive plotting and dashboard capabilities  
+- **Real Data Integration**: Automated GEO database downloading and processing
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone the repository
@@ -35,7 +35,7 @@ Comprehensive usage examples are provided in
 [`examples/quick_start.py`](examples/quick_start.py) and
 [`examples/full_pipeline.py`](examples/full_pipeline.py).
 
-## 🧱 Core Modules
+##  Core Modules
 
 | Area             | Module                                | Highlights                                                                 |
 | ---------------- | ------------------------------------- | -------------------------------------------------------------------------- |
@@ -45,41 +45,41 @@ Comprehensive usage examples are provided in
 | Network Analysis | `circadian_analysis.network_analysis` | Co-expression graph construction, community discovery, phase coupling      |
 | Visualisation    | `circadian_analysis.visualization`    | Phase wheel plots, ranked gene charts, network diagrams, dashboard bundler |
 
-## 📊 Analysis Capabilities
+## Analysis Capabilities
 
 * Circadian rhythm detection across multiple algorithms
 * Biomarker discovery via classical ML and neural regressors
 * Publication-ready plots and interactive dashboards
 * Statistical validation via cross-validation metrics and harmonic summaries
 
-## 🎯 Applications
+## Applications
 
 * Circadian rhythm disruption analysis
 * Clinical chronobiology research
 * Drug chronotoxicity assessment
 * Sleep deprivation biomarker discovery
 
-## 🏆 Technical Highlights
+## Technical Highlights
 
 * Mathematical rigour: Kendall’s tau correlation & cosinor regression
 * Machine learning: Random Forests, gradient boosting, and MLP regressors
 * Data integration: Support for GEO datasets and custom expression matrices
 * Reproducibility: Deterministic algorithms with seed control
 
-## 📚 Documentation
+## Documentation
 
 * Tutorial: Step-by-step analysis walkthrough
 * API Reference: Complete function documentation
 * Examples: Jupyter notebook demonstrations
 * Methodology: Detailed algorithm explanations
 
-## 📄 Citation
+## Citation
 
 If you use this software in your research, please cite:
 
 > Lethaquinn (2024). *Circadian Transcriptomics Analysis Pipeline: Advanced computational framework for circadian rhythm and biomarker discovery.* GitHub: [https://github.com/lethaquinn/circadian-transcriptomics](https://github.com/lethaquinn/circadian-transcriptomics)
 
-## 📞 Contact
+## Contact
 
 * Author: Lethaquinn
 * Email: [2679066373@qq.com](mailto:2679066373@qq.com)
