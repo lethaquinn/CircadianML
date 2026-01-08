@@ -77,7 +77,7 @@ Comprehensive usage examples are provided in
 
 If you use this software in your research, please cite:
 
-> Lethaquinn (2024). *Circadian Transcriptomics Analysis Pipeline: Advanced computational framework for circadian rhythm and biomarker discovery.* GitHub: [https://github.com/lethaquinn/circadian-transcriptomics](https://github.com/lethaquinn/circadian-transcriptomics)
+> Lethaquinn (2025). *Circadian Transcriptomics Analysis Pipeline: Advanced computational framework for circadian rhythm and biomarker discovery.* GitHub: [https://github.com/lethaquinn/CircadianML]
 
 ## Contact
 
